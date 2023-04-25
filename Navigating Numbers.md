@@ -17,3 +17,14 @@ We'll need to clean the data by:
 - changing the data type of some values within a column
 - removing columns which are not relevant to this task
 	- Think about how each column might be relevant to the business question you're investigating. If you can't think of why a column may be useful, it may not be worth including it.
+
+## Build your presentation Structure
+Before you start creating data charts, you should plan your presentation structure. This will ensure your presentation answers the right questions.
+
+For each slide in the template, think about:
+- Agenda - What will your presentation cover?
+- Project Recap - What are the key points from the brief?
+- Problem - What is the problem that you answer in this presentation?
+- The Analytics team - Who is on your team?
+	- Use the Internal stakeholder chart
+- Process - How did you complete your analysis?
